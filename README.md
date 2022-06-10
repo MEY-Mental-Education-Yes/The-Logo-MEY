@@ -1,3 +1,3 @@
 # The-Logo-MEY
 Repository Logo 
-Berikut adalah logo dari Aplikasi MEY (Mental Education Yes)
+This is application of Mey (Mental Education Yes)
